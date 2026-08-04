@@ -1,0 +1,5 @@
+interface:
+  display_name: "亚马逊详情设计改进版"
+  short_description: "拆解参考详情页，并生成亚马逊产品详情页版式设计方案。"
+  icon: "image"
+  color: "#FF9900"
